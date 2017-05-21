@@ -18,4 +18,4 @@
 
 
 # I don't want to show my secret
-/config/secret.yml
+/config/secrets.yml
